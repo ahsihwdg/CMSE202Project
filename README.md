@@ -1,2 +1,2 @@
 # CMSE202Project
-Group Members: Alejandro Dopp, Tingyu Wei, Qianzhao Huang, Mengdonxue Han
+Group Members: Alejandro Dopp, Tingyu Wei, Qianzhao Huang, Mengdongxue Han
